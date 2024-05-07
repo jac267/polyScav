@@ -1,0 +1,9 @@
+.challenge {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+}
+
+.completed {
+  background-color: green;
+}
